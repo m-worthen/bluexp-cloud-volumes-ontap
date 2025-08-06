@@ -43,7 +43,7 @@ You can skip creation of the storage VM (SVM) management LIF if you deploy Cloud
 
 `skipSvmManagementLif: true`
 
-NOTE: A LIF is an IP address associated with a physical port. A storage VM (SVM) management LIF is required for management tools like SnapCenter.
+NOTE: A LIF is an IP address associated with a physical or logical port. A storage VM (SVM) management LIF is required for management tools like SnapCenter.
 
 === Requirements specific to HA pairs
 
